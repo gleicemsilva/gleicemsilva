@@ -85,7 +85,16 @@ IT Technician - CETAM, 2024.
 <a href="https://github.com/gleicemsilva">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=gleicemsilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=F7A7E8"/>
 
+</div> 
+
+<div align = "center">
+  
+![](https://github-readme-streak-stats.herokuapp.com/?user=gleicemsilva&theme=dracula&hide_border=false)<br/>
+![](https://github-profile-trophy.vercel.app/?username=gleicemsilva&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+
 </div>  
+
+
 
 <div align="center">
   <a href="https://git.io/typing-svg">
