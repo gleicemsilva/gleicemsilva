@@ -9,9 +9,18 @@
 <img align="right">
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👾;My+name's+Gleiceanne+😄;I'm+a+Developer+Full+Stack+😎">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👾;My+name's+Gleiceanne+😄;I'm+a+Full+Stack+Developer+😎">
   </a>
 </div><br>
+
+## About me
+
+<div style="font-family: Monoton; font-size: 10px; text-align: center;">
+  
+Full Stack Developer - Recode Pro, 2024. <br>
+IT Technician - CETAM, 2024.
+
+</div>
 
 ## My Skills
 
@@ -102,8 +111,7 @@
 
 ## Contacts:
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
-<a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gleicems)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/gleicemsilva)
           
 
