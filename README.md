@@ -107,5 +107,3 @@ IT Technician - CETAM, 2024.
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3B0764&height=120&section=footer"/>
-
-[![](https://visitcount.itsvg.in/api?id=Guilherme403&icon=0&color=0)](https://visitcount.itsvg.in)
