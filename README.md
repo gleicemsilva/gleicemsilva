@@ -9,11 +9,11 @@
 <img align="right">
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&color=2B7FFF&center=true&vCenter=true&width=500&lines=Hello+World!👾;My+name's+Gleiceanne+😄;I'm+a+Developer+Full+Stack+😎">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👾;My+name's+Gleiceanne+😄;I'm+a+Developer+Full+Stack+😎">
   </a>
 </div><br>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gleicems)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
 <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 
 <div align = "center">  
@@ -24,7 +24,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&color=2B7FFF&center=true&vCenter=true&width=500&lines=Thanks+4+your+visit!+😇;There's+so+much+more+to+me+you+haven't+seen+❣️">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=20&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+4+your+visit!+😇;There's+so+much+more+to+me+you+haven't+seen+❣️">
   </a>
 </div>
 
