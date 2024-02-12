@@ -20,7 +20,7 @@
 </div>
 
 - Full Stack Developer - Recode Pro, 2024. <br>
-- Graduated in IT Technician - CETAM, 2024.
+- IT Technician - CETAM, 2024.
 
 </div>
 
