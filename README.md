@@ -26,6 +26,14 @@
 
 <div style="display: inline_block" align = "center">
 
+## Contacts:
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gleicems)
+
+</div>  
+
+<div style="display: inline_block" align = "center">
+
 ## My Skills:
 
 #### Front-End:
@@ -104,15 +112,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=20&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+4+your+visit!+😇;There's+so+much+more+to+me+you+haven't+seen+❣️">
   </a>
 </div>
-
-<div style="display: inline_block" align = "center">
-
-## Contacts:
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gleicems)
-
-</div>        
-
+  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gleicemsilva/gleicemsilva/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gleicemsilva/gleicemsilva/output/github-contribution-grid-snake.svg">
