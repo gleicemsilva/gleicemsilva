@@ -20,13 +20,13 @@
 </div>
 
 - Full Stack Developer - Recode Pro, 2024. <br>
-- IT Technician - CETAM, 2024.
+- Systems Programming Technician - CETAM, 2024.
 
 </div>
 
 <div style="display: inline_block" align = "center">
 
-## Contacts:
+## Contact:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gleicems)
 
