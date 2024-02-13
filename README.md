@@ -33,8 +33,10 @@
 </div>  
 
 <div style="display: inline_block" align = "center">
+  
+## Soft Skills:
 
-## My Skills:
+## Hard Skills:
 
 #### Front-End:
 
