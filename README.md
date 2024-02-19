@@ -36,7 +36,7 @@
   
 ## Soft Skills:
 
-• Adaptabilidade • Criatividade • Empatia • Inteligência Emocional • Relacionamento interpessoal • Trabalho em Equipe • Facilidade de aprendizado • Determinação • Organização • Pontualidade • Proatividade • Autodidatismo
+• Adaptability • Creativity • Empathy • Emotional Intelligence • Interpersonal relationships • Teamwork • Ease of learning • Determination • Organization • Punctuality • Proactivity • Self-education
 
 ## Hard Skills:
 
