@@ -36,6 +36,8 @@
   
 ## Soft Skills:
 
+• Adaptabilidade • Criatividade • Empatia • Inteligência Emocional • Relacionamento interpessoal • Trabalho em Equipe • Facilidade de aprendizado • Determinação • Organização • Pontualidade • Proatividade • Autodidatismo
+
 ## Hard Skills:
 
 #### Front-End:
